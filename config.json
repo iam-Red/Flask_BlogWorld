@@ -1,0 +1,19 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blogsite",
+    "prod_uri": "mysql://root:@localhost/blogsite",
+    "fb_url": "https://facebook.com/blog",
+    "tw_url": "https://twitter.com/blog",
+    "gh_url": "https://github.com/blog",
+    "blog_name": "Blog World",
+    "gmail-user":"[Enter your Gmail]",
+    "gmail-password":"[Enter your gmail password]",
+    "about_text": "Hi My name is Rajiv Soren and I like to work on different projects and am always ready to learn new and exciting stuff.",
+    "no_of_posts": 4,
+    "login_image":"favicon.ico",
+    "admin_user":"Rajiv",
+    "admin_password": "std123",
+    "upload_location": "C:\\Users\\jiyam\\PycharmProjects\\Flask_PRO\\static"
+  }
+}
